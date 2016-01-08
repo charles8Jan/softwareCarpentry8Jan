@@ -1,0 +1,8 @@
+3rd file
+2nd line
+3rd line
+<<<<<<< HEAD
+different 4th line
+=======
+4th line
+>>>>>>> 628d065bbc2a85da335ccabf1263e7a2b8dfba03
