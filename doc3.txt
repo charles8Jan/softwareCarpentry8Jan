@@ -1,3 +1,4 @@
 3rd file
 2nd line
 3rd line
+different 4th line
