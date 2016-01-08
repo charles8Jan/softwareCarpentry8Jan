@@ -1,6 +1,9 @@
 new doc
 <<<<<<< HEAD
 2nd line
+<<<<<<< HEAD
 3rd line
 =======
 >>>>>>> parent of e5564a2... put doc4 back into rep
+=======
+>>>>>>> parent of 7d2f156... 3rd line to doc4
